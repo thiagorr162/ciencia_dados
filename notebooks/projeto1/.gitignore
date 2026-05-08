@@ -1,0 +1,4 @@
+*.json
+webscraping/data/
+.ipynb_checkpoints/
+.codex
