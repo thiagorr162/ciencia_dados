@@ -13,5 +13,7 @@ dependencies = [
     "plotly>=6.7.0",
     "scikit-learn>=1.8.0",
     "shap>=0.46",
+    "tabicl>=2.1.1",
+    "tabpfn>=8.0.8",
     "unidecode>=1.4.0",
 ]
