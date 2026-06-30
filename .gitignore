@@ -1,0 +1,5 @@
+# dados baixados automaticamente (ex.: MNIST do torchvision)
+notebooks/projeto2/redes_neurais/data/
+
+# checkpoints do Jupyter
+.ipynb_checkpoints/
